@@ -1,7 +1,7 @@
 # Myresearch
 A Comparative analysis of benchmark search based optimizer and feature selection for cross project defect prediction
 Context:
-Software defect prediction (SDP) is use to predict defects in software components. Machine Learning techniques (ML) are extensively use to tackle this problem.
+Software Defect prediction (SDP) is use to predict defects in software components. Machine Learning techniques (ML) are extensively use to tackle this problem.
 Objective:
 The objective of software defect prediction (SDP) is to identify defect-prone modules. This is achieve by using datasets obtained by mining software historical repositories. However, data extracted from these repositories are often associated with high dimensionality, class imbalance, and mislabels which deteriorate classification performance and increase model complexity. One possible solution to eliminate those metrics is Feature Selection (FS) using filtering method. Therefore, our research objective to answer whether Filter e.g. Nearest-Neighbor (NN)-Filter can improve prediction accuracy of Software Prediction Model (SPM) through search based algorithm.
 Method:
